@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nga Nguyen</h1>
-<h3 align="center">I am a third-year student in the Faculty of Electronics and Telecommunications, University of Technology, Vietnam National University Hanoi</h3>
+<h3 align="center">I am a final-year student in the Faculty of Electronics and Telecommunications, University of Technology, Vietnam National University Hanoi</h3>
 
 - 🌱 I’m currently learning **Network and related knowledge**
 
