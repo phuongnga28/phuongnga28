@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nga Nguyen</h1>
-<h3 align="center">I am a final-year student in the Faculty of Electronics and Telecommunications, University of Technology, Vietnam National University Hanoi</h3>
+<h3 align="center">I am a graduate of the Faculty of Electronics and Telecommunications, University of Technology, Vietnam National University Hanoi</h3>
 
-- 🌱 I’m currently learning **Network and related knowledge**
+- 🌱 I am currently working in the field of software design and digital content
 
 - 📫 How to reach me **nguyenphuongnga289@gmail.com**
 
@@ -11,4 +11,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="center">GIF:</h3>
+<p align="center">
+<img src="https://media.giphy.com/media/BFw8UdyN2eTahirZbx/giphy.gif" alt="bird bouncing gif" />
+</p>
